@@ -1,5 +1,5 @@
-Planet Saver Game - python (pygame).
+Planet Saver Game - python (pygame).<br />
 Game controls:
-1. left/right arrow to go left/right. \n 
-2. space to shoot. \n
-3. r to restart. \n
+1. left/right arrow to go left/right.
+2. space to shoot.
+3. r to restart.
